@@ -1,0 +1,33 @@
+{
+    "complaint": {
+        "title": "Secure Complaint Box",
+        "subtitle": "Voice for the Voiceless. Your report helps secure the nation.",
+        "step1_title": "Select Mode",
+        "mode_named": "Named Complaint",
+        "mode_named_desc": "Provide your details. We will keep them strictly confidential.",
+        "mode_anonymous": "Anonymous Complaint",
+        "mode_anonymous_desc": "Protect your identity completely. Track via a secret ID.",
+        "continue": "Continue",
+        "step2_title": "Complaint Details",
+        "incident_type": "Incident Type",
+        "select_type": "-- Select an incident type --",
+        "type_financial": "Financial / UPI Fraud",
+        "type_social": "Social Media Identity Theft",
+        "type_harassment": "Cyber Harassment",
+        "type_other": "Other Cyber Crime",
+        "description": "Incident Description",
+        "desc_placeholder": "Please provide as many details as possible...",
+        "date_time": "Date & Time of Incident",
+        "location": "Location (Optional)",
+        "upload_evidence": "Upload Evidence (Screenshots/PDFs)",
+        "contact_info": "Contact Email/Phone (Optional for Anonymous)",
+        "submit": "Submit Secure Complaint",
+        "submitting": "Encrypting & Submitting...",
+        "step3_title": "Complaint Submitted Successfully",
+        "tracking_id": "Your Secret Tracking ID",
+        "tracking_warning": "Please save this ID immediately. It will not be shown again and cannot be recovered.",
+        "safety_guidance": "Safety Guidance",
+        "guidance_text": "Do not engage further with the scammer. If money was lost, call 1930 immediately.",
+        "back_home": "Back to Home Page"
+    }
+}
